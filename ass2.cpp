@@ -1,4 +1,4 @@
-// Yusuf Pisan pisan@uw.edu
+// Nathanael Fixx
 // 15 Jan 2018
 
 // some interactive and non-interactive testes to test BinarySearchTree
